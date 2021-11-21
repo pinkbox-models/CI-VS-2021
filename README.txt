@@ -41,7 +41,7 @@ estimateVS.m : function to estimate VS from CI with their theoretical relation f
 
 Kessler D, Carr CE, Kretzberg J, Ashida G (2021)
 "Theoretical relationship between two measures of spike synchrony: Correlation index and vector strength"
-(Submitted)
+Front Neurosci 15,761826. doi:10.3389/fnins.2021.761826
 
 %%% Copyright/License %%% 
 
